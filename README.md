@@ -1,6 +1,6 @@
 # Clinic Management System 
 
-A C++ console-based application designed to manage patient flow, doctors, and emergency situations in a medical clinic or hospital setting. This system uses efficient data structures to handle patient queues and record retrieval.
+A C++ console-based application designed to manage patient flow, doctors, and emergency situations in a medical clinic. This system uses efficient data structures to handle patient queues and record retrieval.
 
 ##  Table of Contents
 - [About](#about)
