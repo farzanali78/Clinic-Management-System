@@ -8,7 +8,7 @@ A C++ console-based application designed to manage patient flow, doctors, and em
 - [Technologies Used](#technologies-used)
 
 ##  About
-This project is a Command Line Interface (CLI) tool that helps hospital administrators manage the flow of patients. It handles standard appointments as well as emergency cases which require immediate attention. The system allows for adding patients, searching records, managing doctors, and processing the patient queue in a "First-Come-First-Served" (FCFS) manner, with priority given to emergency cases.
+This project is a Command Line Interface (CLI) tool designed to help **small medical centers and clinics** manage their daily patient flow. It streamlines the Outpatient Department (OPD) process by handling standard appointments and prioritizing emergency walk-ins. The system allows receptionists to add patients, search records, and process the doctor's queue efficiently.
 
 ##  Features
 Based on the main menu interface, the system includes the following functionalities:
